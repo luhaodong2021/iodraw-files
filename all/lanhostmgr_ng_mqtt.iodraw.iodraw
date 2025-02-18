@@ -31,13 +31,13 @@
           <mxGeometry x="170" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-11" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="60" y="410" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-12" value="subscribe&lt;div&gt;LANHOST_MATT_SUBDEV_TOPIC&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="320" y="410" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pVZ4NrSaEHphaFQpugrH-15" target="pVZ4NrSaEHphaFQpugrH-19">
           <mxGeometry relative="1" as="geometry" />
