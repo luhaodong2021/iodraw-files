@@ -143,10 +143,13 @@
             <mxPoint x="90" y="870" as="sourcePoint" />
             <mxPoint x="230" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="870" />
+              <mxPoint x="230" y="870" />
               <mxPoint x="230" y="780" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pVZ4NrSaEHphaFQpugrH-56" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="838" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
