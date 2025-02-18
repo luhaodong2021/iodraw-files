@@ -48,6 +48,11 @@
         <mxCell id="pVZ4NrSaEHphaFQpugrH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pVZ4NrSaEHphaFQpugrH-15" target="pVZ4NrSaEHphaFQpugrH-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pVZ4NrSaEHphaFQpugrH-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="pVZ4NrSaEHphaFQpugrH-20">
+          <mxGeometry x="-0.161" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-15" value="mqtt_event_loop" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="600" width="190" height="80" as="geometry" />
         </mxCell>
@@ -63,10 +68,10 @@
             <mxPoint x="150" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVZ4NrSaEHphaFQpugrH-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pVZ4NrSaEHphaFQpugrH-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pVZ4NrSaEHphaFQpugrH-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="450" as="sourcePoint" />
-            <mxPoint x="290" y="550" as="targetPoint" />
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
