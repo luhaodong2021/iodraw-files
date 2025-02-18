@@ -27,11 +27,6 @@
         <mxCell id="pVZ4NrSaEHphaFQpugrH-2" value="connect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pVZ4NrSaEHphaFQpugrH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pVZ4NrSaEHphaFQpugrH-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pVZ4NrSaEHphaFQpugrH-6" target="pVZ4NrSaEHphaFQpugrH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -63,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-105" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
