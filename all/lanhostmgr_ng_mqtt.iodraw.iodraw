@@ -95,10 +95,10 @@
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-37" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504" y="725" as="sourcePoint" />
-            <mxPoint x="414" y="645" as="targetPoint" />
+            <mxPoint x="510" y="730" as="sourcePoint" />
+            <mxPoint x="330" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="504" y="645" />
+              <mxPoint x="510" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
