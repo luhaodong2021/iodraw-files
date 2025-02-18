@@ -84,7 +84,7 @@
         <mxCell id="pVZ4NrSaEHphaFQpugrH-34" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="665" as="sourcePoint" />
-            <mxPoint x="340" y="750" as="targetPoint" />
+            <mxPoint x="430" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-35" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;lanhost_publish_device_msg&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -95,10 +95,10 @@
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-37" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="720" as="sourcePoint" />
-            <mxPoint x="350" y="640" as="targetPoint" />
+            <mxPoint x="504" y="725" as="sourcePoint" />
+            <mxPoint x="414" y="645" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="640" />
+              <mxPoint x="504" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
