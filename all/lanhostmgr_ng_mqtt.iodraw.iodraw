@@ -105,7 +105,11 @@
         <mxCell id="pVZ4NrSaEHphaFQpugrH-40" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="640" as="sourcePoint" />
-            <mxPoint x="-290" y="640" as="targetPoint" />
+            <mxPoint x="-100" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="650" />
+              <mxPoint x="-130" y="490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-41" value="on_disconnect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
