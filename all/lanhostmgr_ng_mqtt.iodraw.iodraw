@@ -115,6 +115,13 @@
         <mxCell id="pVZ4NrSaEHphaFQpugrH-44" value="hashmap_get" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="740" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pVZ4NrSaEHphaFQpugrH-45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-170" y="820" as="sourcePoint" />
+            <mxPoint x="-70" y="820" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
