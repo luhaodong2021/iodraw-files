@@ -154,13 +154,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-66" value="update_lanhost_entry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="-120" y="970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-68" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="910" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-69" value="&lt;div&gt;unset_entry_update_flag&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVZ4NrSaEHphaFQpugrH-71" value="MarshJson(lanhost_entry)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="780" width="150" height="40" as="geometry" />
