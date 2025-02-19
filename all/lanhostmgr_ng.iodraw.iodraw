@@ -79,7 +79,7 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-24" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-315" y="178" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-25" value="is_arp_reply" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-25" value="cache_map_get" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-475" y="340" width="133" height="80" as="geometry" />
         </mxCell>
       </root>
