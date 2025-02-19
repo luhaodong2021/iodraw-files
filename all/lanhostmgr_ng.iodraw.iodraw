@@ -398,7 +398,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-148" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 18px; text-wrap: wrap;&quot;&gt;queue_msg_arp_success&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="635" y="113" width="230" height="40" as="geometry" />
+          <mxGeometry x="630" y="100" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jHU_JNotdws7Zjp5pvOT-149" target="jHU_JNotdws7Zjp5pvOT-158">
           <mxGeometry relative="1" as="geometry">
@@ -458,11 +458,11 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-172" value="do_ICMP_detect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="360" y="-197" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-174" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="425" y="-102" width="30" height="30" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-174" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-107" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-175" value="queue_msg_icmp_success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="745" y="178" width="170" height="30" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-175" value="queue_msg_icmp_success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="610" y="138" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
