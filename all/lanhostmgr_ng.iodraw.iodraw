@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-103" value="WIFI_UPDATE_STA_INFO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="383" width="240" height="40" as="geometry" />
+          <mxGeometry x="-1270" y="330" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-104" value="wifi_update_handle" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="395" width="120" height="60" as="geometry" />
