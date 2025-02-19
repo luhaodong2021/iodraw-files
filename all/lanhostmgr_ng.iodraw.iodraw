@@ -358,11 +358,17 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-134" value="online_duration&amp;gt;detect_time" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-395" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="jHU_JNotdws7Zjp5pvOT-135" target="jHU_JNotdws7Zjp5pvOT-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-135" value="check_commom_update" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-155" y="-225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-137" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-75" y="-282" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-138" value="sync_lanhost_info" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="-85" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
