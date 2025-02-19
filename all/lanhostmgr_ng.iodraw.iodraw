@@ -282,7 +282,7 @@
           <mxGeometry x="-800" y="548" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-107" value="npu_bridge_notify_handle" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-723.5" y="730" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
