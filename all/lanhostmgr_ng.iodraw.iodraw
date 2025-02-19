@@ -249,8 +249,11 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-96" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="523.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-98" value="queue_msg_arp_send" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-98" value="queue_msg_arp_send_from_dhcp" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1225" y="660" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-100" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="588" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
