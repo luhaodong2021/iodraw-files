@@ -408,8 +408,8 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-151" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="920" y="13" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-154" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="-47" width="30" height="40" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-154" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-47" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-158" value="update_last_active_time" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="1055" y="-147" width="120" height="60" as="geometry" />
