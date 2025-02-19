@@ -458,6 +458,9 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-172" value="do_ICMP_detect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="360" y="-197" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-174" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-102" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
