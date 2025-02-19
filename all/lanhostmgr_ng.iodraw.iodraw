@@ -274,9 +274,12 @@
         <mxCell id="jHU_JNotdws7Zjp5pvOT-105" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="-830" y="440" as="sourcePoint" />
-            <mxPoint x="-750" y="470" as="targetPoint" />
+            <mxPoint x="-620" y="720" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-106" value="NPU_ARP_REQUEST_RCV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="548" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
