@@ -440,7 +440,14 @@
           <mxGeometry x="1255" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-168" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;lanhostmap_get&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-60" width="190" height="80" as="geometry" />
+          <mxGeometry x="325" y="-47" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-169" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="460" y="140" as="sourcePoint" />
+            <mxPoint x="520" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
