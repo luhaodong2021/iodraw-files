@@ -449,8 +449,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-170" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="365" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-170" value="queue_msg_icmp_send" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="360" y="83" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
