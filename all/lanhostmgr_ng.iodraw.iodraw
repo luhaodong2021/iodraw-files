@@ -215,7 +215,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-114" value="ETH_DOWN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="jHU_JNotdws7Zjp5pvOT-86">
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-114" value="ETH_DOWN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" connectable="0" parent="jHU_JNotdws7Zjp5pvOT-86">
           <mxGeometry x="-0.3608" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -277,7 +277,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-106" value="NPU_ARP_REQUEST_RCV&lt;div&gt;(info_utility)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-106" value="NPU_ARP_REQUEST_RCV&lt;div style=&quot;font-size: 18px;&quot;&gt;(info_utility)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-835" y="533" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-107" value="npu_bridge_notify_handle" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
