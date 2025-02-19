@@ -299,8 +299,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-112" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="-1195" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-112" value="ETH_DOWN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-1215" y="318" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-113" value="queue_msg_set_offline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
