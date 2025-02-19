@@ -198,8 +198,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHU_JNotdws7Zjp5pvOT-81" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="390" width="210" height="120" as="geometry" />
+        <mxCell id="jHU_JNotdws7Zjp5pvOT-81" value="msg_type?" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="390" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jHU_JNotdws7Zjp5pvOT-83" value="arht_event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-940" y="328" width="80" height="30" as="geometry" />
