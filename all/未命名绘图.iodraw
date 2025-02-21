@@ -28,8 +28,11 @@
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-11" value="PON" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uJ3EBTrXhyT0_CFQkknm-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="uJ3EBTrXhyT0_CFQkknm-12" value="GE1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="390" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uJ3EBTrXhyT0_CFQkknm-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
