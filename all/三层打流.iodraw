@@ -76,8 +76,8 @@
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-2" value="192.168.1.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="788" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-3" value="192.168.1.1&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;00::11::22:aa:bb:cc&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="618" width="180" height="50" as="geometry" />
+        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-3" value="192.168.1.1&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;00::11::22:dd:ee:ff&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="618" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-4" value="10.10.10.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="778" width="90" height="30" as="geometry" />
