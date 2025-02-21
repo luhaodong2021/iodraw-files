@@ -55,8 +55,8 @@
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="uJ3EBTrXhyT0_CFQkknm-20" target="uJ3EBTrXhyT0_CFQkknm-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJ3EBTrXhyT0_CFQkknm-20" value="192.168.10.2&lt;div style=&quot;font-size: 18px;&quot;&gt;00::11::22:aa:bb:cc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="370" y="620" width="180" height="60" as="geometry" />
+        <mxCell id="uJ3EBTrXhyT0_CFQkknm-20" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;10.10.10.100&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;00::11::22:aa:bb:cc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="530" y="620" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-23" value="192.168.10.8&lt;div style=&quot;font-size: 18px;&quot;&gt;aa:bb:cc:00:11:22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="770" y="620" width="170" height="60" as="geometry" />
