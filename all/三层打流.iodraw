@@ -70,8 +70,8 @@
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-27" value="192.168.10.100&lt;div style=&quot;font-size: 18px;&quot;&gt;22:22:22:22:22:22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="269" y="700" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-1" value="10.10.10.10&lt;div&gt;44:44:44:44:44:44&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="145" y="473" width="170" height="60" as="geometry" />
+        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-1" value="10.10.10.10(44:44:44:44:44:44)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="483" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-2" value="192.168.1.10(&lt;span style=&quot;font-size: 18px;&quot;&gt;11:11:11:11:11:11&lt;/span&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="170" y="783" width="280" height="40" as="geometry" />
