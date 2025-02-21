@@ -64,7 +64,7 @@
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="uJ3EBTrXhyT0_CFQkknm-25" target="uJ3EBTrXhyT0_CFQkknm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uJ3EBTrXhyT0_CFQkknm-25" value="192.168.10.8&lt;div style=&quot;font-size: 18px;&quot;&gt;aa:bb:cc:00:11:22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="uJ3EBTrXhyT0_CFQkknm-25" value="192.168.1.10&lt;div style=&quot;font-size: 18px;&quot;&gt;aa:bb:cc:00:11:22&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="70" y="700" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-27" value="192.168.10.2&lt;div style=&quot;font-size: 18px;&quot;&gt;00::11::22:aa:bb:cc&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
@@ -79,8 +79,8 @@
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-3" value="192.168.1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="628" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="778" width="50" height="30" as="geometry" />
+        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-4" value="10.10.10.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="778" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
