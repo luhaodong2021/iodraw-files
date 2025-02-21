@@ -58,8 +58,8 @@
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-20" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;10.10.10.100&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;33:33:33:33:33:33&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="535" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uJ3EBTrXhyT0_CFQkknm-23" value="10.10.10.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="795" y="630" width="120" height="40" as="geometry" />
+        <mxCell id="uJ3EBTrXhyT0_CFQkknm-23" value="10.10.10.10&lt;div&gt;44:44:44:44:44:44&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="770" y="620" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uJ3EBTrXhyT0_CFQkknm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="uJ3EBTrXhyT0_CFQkknm-25" target="uJ3EBTrXhyT0_CFQkknm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
