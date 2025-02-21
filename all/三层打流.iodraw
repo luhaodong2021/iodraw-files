@@ -73,8 +73,8 @@
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-1" value="10.10.10.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="488" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-2" value="192.168.1.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="788" width="90" height="30" as="geometry" />
+        <mxCell id="fCXL0zZb8qjzXQrtK3Wy-2" value="192.168.1.10(&lt;span style=&quot;font-size: 18px;&quot;&gt;11:11:11:11:11:11&lt;/span&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="783" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fCXL0zZb8qjzXQrtK3Wy-3" value="192.168.1.1(&lt;span style=&quot;font-size: 18px;&quot;&gt;22:22:22:22:22:22&lt;/span&gt;)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="618" width="240" height="50" as="geometry" />
